@@ -107,7 +107,7 @@
     {
         "id": "ad7c541f1f64bc7b",
         "type": "subflow",
-        "name": "Obtener datos modbus slave",
+        "name": "Obtener datos modbuus slave",
         "info": "",
         "category": "",
         "in": [
